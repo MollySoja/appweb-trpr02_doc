@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "TP2"
-  text: "TP2 star wars Anthony Saillant et Lorik Parent"
+  text: "Jeu Web Star Wars"
   tagline: "Par: Anthony Saillant et Lorik Parent"
   actions:
     - theme: brand
