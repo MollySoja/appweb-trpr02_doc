@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "TP3"
-  text: "TP3 star wars Anthony Saillant et Lorik Parent"
+  name: "TP2"
+  text: "TP2 star wars Anthony Saillant et Lorik Parent"
   tagline: My great project tagline
   actions:
     - theme: brand
