@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "TP3",
+  title: "TP2",
   description: "Jeu Star Wars par: Anthony Saillant et Lorik Parent",
   base: "/appweb-trpr02_doc/",
   themeConfig: {
