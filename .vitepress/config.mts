@@ -11,7 +11,6 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "Examples",
         items: [
           { text: "Anthony Saillant", link: "/anthony-saillant" },
           { text: "Lorik Parent", link: "/lorik-parent" },

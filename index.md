@@ -8,16 +8,9 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Composant de ouf
-      link:
-        /composant.md #ici on met le vrai nom
-        # A faire, deploy git hub pages (Antho qui a le code)
-
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: Revue du code de Anthony Saillant
+      link: /anthony-saillant.md
+    - theme: brand
+      text: Revue du code de Lorik Parent
+      link: /lorik-parent.md
 ---
