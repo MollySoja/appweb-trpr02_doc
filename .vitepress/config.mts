@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "TP3",
   description: "TP3 star wars Anthony Saillant et Lorik Parent",
+  base: '/appweb-trpr02_doc/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
