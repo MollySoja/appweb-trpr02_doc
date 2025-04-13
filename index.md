@@ -25,4 +25,12 @@ hero:
     - theme: brand
       text: Revue du code de Anthony Saillant semaine 3
       link: /Anthony-semaine3.md
+
+features:
+  - title: Feature A
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature B
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature C
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
