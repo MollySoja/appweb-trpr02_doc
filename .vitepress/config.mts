@@ -7,6 +7,7 @@ export default defineConfig({
   base: "/appweb-trpr02_doc/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+
     nav: [{ text: "Home", link: "/" }],
 
     sidebar: [
