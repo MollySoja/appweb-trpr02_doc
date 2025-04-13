@@ -4,14 +4,16 @@ layout: home
 
 hero:
   name: "TP3"
-  text: "TP3 star wars Anthony Saillant et Lorik Parent"
-  tagline: My great project tagline
+  text: "Star Wars Anthony Saillant et Lorik Parent"
+  tagline: Une revue de code detaillé pour le travail pratique 3
   actions:
     - theme: brand
-      text: Composant de ouf
-      link:
-        /composant.md #ici on met le vrai nom
-        # A faire, deploy git hub pages (Antho qui a le code)
+      text: Lorik semaine 1
+      link: /Lorik-semaine1
+
+    - theme: brand
+      text: Anthony semaine 1
+      link: /Anthony-semaine1
 
 features:
   - title: Feature A
