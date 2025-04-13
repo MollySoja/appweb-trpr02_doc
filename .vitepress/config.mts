@@ -14,8 +14,8 @@ export default defineConfig({
       {
         text: "Revues de code",
         items: [
-          { text: "Anthony Saillant", link: "/anthony-saillant" },
-          { text: "Lorik Parent", link: "/lorik-parent" },
+          { text: "Anthony Saillant", link: "/Anthony-semaine1" },
+          { text: "Lorik Parent", link: "/Lorik-semaine1" },
         ],
       },
     ],
