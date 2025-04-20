@@ -8,9 +8,15 @@ hero:
   tagline: "Par: Anthony Saillant et Lorik Parent"
   actions:
     - theme: brand
-      text: Revue du code de Anthony Saillant
-      link: /anthony-saillant.md
+      text: Revue du code de Anthony Saillant semaine 1
+      link: /Anthony-semaine1.md
     - theme: brand
-      text: Revue du code de Lorik Parent
-      link: /lorik-parent.md
+      text: Revue du code de Lorik Parent semaine 1
+      link: /Lorik-semaine1.md
+    - theme: brand
+      text: Revue du code de Anthony Saillant semaine 2
+      link: /Anthony-semaine2.md
+    - theme: brand
+      text: Revue du code de Lorik Parent semaine 2
+      link: /Lorik-semaine2.md
 ---
