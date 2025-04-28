@@ -18,6 +18,8 @@ export default defineConfig({
           { text: "Lorik Parent semaine 1", link: "/Lorik-semaine1" },
           { text: "Lorik Parent semaine 2", link: "/Lorik-semaine2" },
           { text: "Anthony Saillant semaine 2", link: "/Anthony-semaine2" },
+          { text: "Lorik Parent semaine 3", link: "/Lorik-semaine3" },
+          { text: "Anthony Saillant semaine 3", link: "/Anthony-semaine3" },
         ],
       },
     ],

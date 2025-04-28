@@ -19,4 +19,10 @@ hero:
     - theme: brand
       text: Revue du code de Lorik Parent semaine 2
       link: /Lorik-semaine2.md
+    - theme: brand
+      text: Revue du code de Lorik Parent semaine 3
+      link: /Lorik-semaine3.md
+    - theme: brand
+      text: Revue du code de Anthony Saillant semaine 3
+      link: /Anthony-semaine3.md
 ---
